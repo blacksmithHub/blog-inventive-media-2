@@ -14,11 +14,11 @@
 
     <!-- <ul> -->
     <?php
-    // if (true) {
-    //     echo '<li style="color: red">
-    //         item 1
-    //     </li>';
-    // }
+    if (true) {
+        echo '<li style="color: red">
+            item 1
+        </li>';
+    }
     ?>
 
     <?php
