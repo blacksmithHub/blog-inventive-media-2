@@ -37,19 +37,21 @@
     </ul> -->
 
 
-    <ul>
+    <ol>
         <?php
         $cars = ["toyota", "kia", "honda"];
 
         foreach ($cars as $car) :
         ?>
             <li>
-                <?php echo $car; ?>
+                <?php
+                // echo $car; 
+                ?>
             </li>
         <?php
         endforeach;
         ?>
-    </ul>
+    </ol>
 
 
 
